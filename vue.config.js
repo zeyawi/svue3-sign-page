@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/svue3-sign-page/'
+    publicPath: '/svue3-sign-page/docs/'
 }
